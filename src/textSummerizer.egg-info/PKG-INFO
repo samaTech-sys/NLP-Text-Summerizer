@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: textSummerizer
+Version: 0.0.0
+Summary: A small python project for NLP app
+Home-page: http://github.com/colline/NLP-Text-Summerizer
+Author: colline
+Author-email: collinetazuba@gmail.com
+Project-URL: Bug Tracker, http://github.com/colline/NLP-Text-Summerizer/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# NLP-Text-Summerizer
+This is a natural language processing project to summarise text build until deployment 
