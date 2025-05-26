@@ -4,3 +4,101 @@
 [2025-05-26 11:01:18,096: INFO: common: yaml_file: config\config.yaml loaded successfully]
 [2025-05-26 11:01:52,216: INFO: common: yaml_file: config\config.yaml loaded successfully]
 [2025-05-26 11:04:20,171: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:31:02,926: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:31:03,032: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:31:03,040: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:43:02,363: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:43:02,379: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:43:02,385: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:43:07,076: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:43:07,087: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:43:07,093: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:43:30,260: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:43:30,275: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:43:30,279: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:43:33,576: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:43:33,587: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:43:33,591: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:43:53,184: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:43:53,204: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:43:53,208: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:43:55,352: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:43:55,363: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:43:55,367: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:43:57,302: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:43:57,318: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:43:57,318: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:51:55,220: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:51:55,236: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:51:55,241: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:51:55,245: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-05-26 11:53:27,641: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:53:27,652: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:53:27,656: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:53:27,656: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-05-26 11:53:44,389: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:53:44,400: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:53:44,409: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:53:44,414: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-05-26 11:53:49,819: INFO: 292633144: artifacts/data_ingestion/data.zip downloaded with the following 
+Connection: close
+Content-Length: 8377572
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "3aea79eaa36efc9339c42d3a61413f75f62f7e5676002d7473efbe842605ace6"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 9E50:2D5998:194FA:45DDA:683401E8
+Accept-Ranges: bytes
+Date: Mon, 26 May 2025 05:53:45 GMT
+Via: 1.1 varnish
+X-Served-By: cache-jnb7025-JNB
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1748238825.735049,VS0,VE717
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7a2e46ff370c5d21c8b84836f0ef6e20dd55a74f
+Expires: Mon, 26 May 2025 05:58:45 GMT
+Source-Age: 0
+
+]
+[2025-05-26 11:55:33,733: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:55:33,744: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:55:33,751: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:55:33,756: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-05-26 11:55:33,764: INFO: 292633144: File already exists of size: ~8181 KB]
+[2025-05-26 11:55:46,939: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 11:55:46,949: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 11:55:46,953: INFO: common: Created directory at: artifacts]
+[2025-05-26 11:55:46,957: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-05-26 11:55:46,959: INFO: 1357720767: File already exists of size: ~8181 KB]
+[2025-05-26 12:07:48,001: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 12:07:48,036: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 12:07:48,047: INFO: common: Created directory at: artifacts]
+[2025-05-26 12:07:48,048: INFO: common: Created directory at: artifacts/data_ingestion]
+[2025-05-26 12:07:48,060: INFO: 1357720767: File already exists of size: ~8181 KB]
+[2025-05-26 12:10:04,972: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 12:10:04,983: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 12:10:04,987: INFO: common: Created directory at: artifacts]
+[2025-05-26 12:10:04,994: INFO: common: Created directory at: artifacts/data_validation]
+[2025-05-26 13:51:28,420: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 13:51:28,477: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 13:51:28,486: INFO: common: Created directory at: artifacts]
+[2025-05-26 13:51:28,490: INFO: common: Created directory at: artifacts/data_transformation]
+[2025-05-26 14:02:14,752: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 14:02:14,769: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 14:02:14,776: INFO: common: Created directory at: artifacts]
+[2025-05-26 14:02:14,782: INFO: common: Created directory at: artifacts/data_transformation]
+[2025-05-26 14:07:20,471: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 14:07:20,496: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 14:07:20,506: INFO: common: Created directory at: artifacts]
+[2025-05-26 14:07:20,527: INFO: common: Created directory at: artifacts/data_transformation]
+[2025-05-26 14:10:02,855: INFO: common: yaml_file: config\config.yaml loaded successfully]
+[2025-05-26 14:10:02,885: INFO: common: yaml_file: params.yaml loaded successfully]
+[2025-05-26 14:10:02,889: INFO: common: Created directory at: artifacts]
+[2025-05-26 14:10:02,893: INFO: common: Created directory at: artifacts/data_transformation]
