@@ -4,18 +4,19 @@ datasets
 sacrebleu
 rouge_score
 py7zr
-pandas 
+pandas
 nltk
-tqdm 
+tqdm
 pyyaml
 matplotlib
-torch 
+ensure
+torch
 notebook
 boto3
 mypy-boto3-s3
 python-box
-ensure
 fastapi
+python-box 
 uvicorn
 Jinja2
 -e .

@@ -7,6 +7,11 @@ src/textSummerizer.egg-info/SOURCES.txt
 src/textSummerizer.egg-info/dependency_links.txt
 src/textSummerizer.egg-info/top_level.txt
 src/textSummerizer/components/__init__.py
+src/textSummerizer/components/data_ingestion.py
+src/textSummerizer/components/data_transformation.py
+src/textSummerizer/components/data_validation.py
+src/textSummerizer/components/model_evaluation.py
+src/textSummerizer/components/model_trainer.py
 src/textSummerizer/config/__init__.py
 src/textSummerizer/config/configuration.py
 src/textSummerizer/constants/__init__.py
@@ -14,5 +19,11 @@ src/textSummerizer/entity/__init__.py
 src/textSummerizer/feature_engineering/__init__.py
 src/textSummerizer/logging/__init__.py
 src/textSummerizer/pipeline/__init__.py
+src/textSummerizer/pipeline/prediction_pipeline.py
+src/textSummerizer/pipeline/stage_01_data_ingestion.py
+src/textSummerizer/pipeline/stage_02_data_validation.py
+src/textSummerizer/pipeline/stage_03_data_transformation.py
+src/textSummerizer/pipeline/stage_04_model_trainer.py
+src/textSummerizer/pipeline/stage_05_model_evaluation.py
 src/textSummerizer/utils/__init__.py
 src/textSummerizer/utils/common.py
