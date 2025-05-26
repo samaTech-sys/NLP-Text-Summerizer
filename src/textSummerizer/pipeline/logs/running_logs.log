@@ -1,0 +1,32 @@
+[2025-05-26 12:02:32,810: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-05-26 12:02:32,827: ERROR: stage_01_data_ingestion: [Errno 2] No such file or directory: 'config\\config.yaml']
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\pipeline\stage_01_data_ingestion.py", line 22, in <module>
+    obj.main()
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\pipeline\stage_01_data_ingestion.py", line 12, in main
+    config =ConfigurationManager()
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\config\configuration.py", line 18, in __init__
+    self.config = read_yaml(CONFIG_FILE_PATH)
+  File "C:\Users\USER\anaconda3\envs\NLPTextSummerizer\lib\site-packages\ensure\main.py", line 872, in __call__
+    return_val = self.f(*args, **kwargs)
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\utils\common.py", line 36, in read_yaml
+    raise e
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\utils\common.py", line 29, in read_yaml
+    with open(path_to_yaml) as yaml_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'config\\config.yaml'
+[2025-05-26 12:07:21,341: INFO: stage_01_data_ingestion: >>>>>> stage Data Ingestion Stage started <<<<<<]
+[2025-05-26 12:07:21,344: ERROR: stage_01_data_ingestion: [Errno 2] No such file or directory: 'config\\config.yaml']
+Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\pipeline\stage_01_data_ingestion.py", line 22, in <module>
+    obj.main()
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\pipeline\stage_01_data_ingestion.py", line 12, in main
+    config =ConfigurationManager()
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\config\configuration.py", line 18, in __init__
+    self.config = read_yaml(config_filepath)
+  File "C:\Users\USER\anaconda3\envs\NLPTextSummerizer\lib\site-packages\ensure\main.py", line 872, in __call__
+    return_val = self.f(*args, **kwargs)
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\utils\common.py", line 36, in read_yaml
+    raise e
+  File "C:\Users\USER\Desktop\MLDefaults\NLP-Text-Summerizer\src\textSummerizer\utils\common.py", line 29, in read_yaml
+    with open(path_to_yaml) as yaml_file:
+FileNotFoundError: [Errno 2] No such file or directory: 'config\\config.yaml'
